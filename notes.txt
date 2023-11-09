@@ -1,0 +1,10 @@
+# for read url
+https://docs.python-requests.org/en/latest/user/install/#python-m-pip-install-requests
+python -m pip install requests
+#
+https://towardsdatascience.com/website-data-cleaning-in-python-for-nlp-dda282a7a871
+https://pypi.org/project/boilerpy3/
+pip install boilerpy3
+
+python -m pip install BeautifulSoup4
+

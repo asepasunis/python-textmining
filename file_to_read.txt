@@ -1,2 +1,2 @@
-ini line satu
-ini line dua
+data1
+data2
