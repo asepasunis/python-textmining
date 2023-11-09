@@ -1,0 +1,2 @@
+ini line satu
+ini line dua

@@ -1,0 +1,8 @@
+# strongly typec-> c++, java, dlsb..
+String nama = "Asep";
+int  namaInt = 10;
+
+# loosely type -> php, python
+$nama = "asep";
+$umur = "17";
+
