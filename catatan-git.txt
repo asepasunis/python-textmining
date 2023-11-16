@@ -1,0 +1,26 @@
+source versioning :
+
+- terpusat
+- terdistribusi
+
+terpusat exp: SVN
+terdistribusi exp: git
+
+- inisiasi git : git init (membuat repository lokal)
+- cek status : git status 
+        untrack : itu berarti file tersebut blm ada dalam catatan git
+        Changes not staged for commit : file tersebut sudah ada dalam catatan git, namun ada perubahan, lakukan git add jika mau di commit
+        Changes to be committed: file tersebut sudah di set untuk ditambahkan ke catatan git, dan siap di simpan
+- melakukann penyimpanan kedalam catatan git : git commit -m "commit pertama"
+- melihat catatan log git : git log, lalu ketik g untuk exit dari log 
+
+- commit , pull, push, clone
+- commit : menyimimpan perubahan kedalam lokal git(catatatn/db git di lokal komputer kita) git commit -m "catatannya jdkdkdkdkdkd"
+- push : menyimpan lokal kita ke server git (repository git exp github, gitlab) sintak : git push -u origin master
+- pull : menarik/mengambil perubahan yang dikirimkan diserver ke lokal kita (sintak : git pull)
+- clone : kita mengcopy repository git ke lokal kita dari server 
+  ketik git pull <url yang di copy dari repository server exp https://github.com/asepasunis/python-textmining.git>
+
+notes : 
+untuk github untuk push sourcecode untuk yang standar menggunakan token, ke settting, developer setting, token (classsic), new token
+ceklist serviss yang dibutuhkan, lalu simpan kode yang di generate untuk kita kalao mau git push ke server
